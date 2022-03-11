@@ -10,7 +10,7 @@ namespace portfolio_mening.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return ();
         }
     }
 }
